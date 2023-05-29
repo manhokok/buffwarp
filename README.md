@@ -25,7 +25,7 @@ Bước 3: Tìm mục Client Configuration -> sao chép ID ứng dụng.
 
 
 Bước 4: Vào sever buff Warp+
-https://replit.com/@TeamMTH/buff-warp?s=app
+https://replit.com/@TeamMTH/buff-warp
 
 Bước 5: Trong giao diện này, chọn biểu tượng tam giác (nếu truy cập bằng điện thoại) hoặc biểu tượng RUN (nếu truy cập bằng máy tính) -> paste ID đã copy ở bước trên.
 
